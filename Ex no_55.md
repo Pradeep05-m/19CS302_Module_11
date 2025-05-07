@@ -4,18 +4,6 @@
 To write a C program to find a square of number using function with arguments without return type.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
-## Program:# EX 55 C program to find a square of number using function with arguments without return type.
-## DATE:
-## AIM:
-To write a C program to find a square of number using function with arguments without return type.
-
-## Algorithm
 
 1. **Start**  
 2. Define a function `findSquare(num)` that takes an integer argument.  
@@ -47,20 +35,6 @@ int main() {
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/417382e7-5233-4f85-af71-e0b854b57f79)
-
-
-
-## Result:
-Thus the program was executed and the output was verified successfully.
-```
-/*
-C program to find a square of number using function with arguments without return type.
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
 
 
 
