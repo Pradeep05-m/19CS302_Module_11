@@ -1,5 +1,5 @@
 # EX 53 C program to remove duplicates in an array.
-## DATE:
+## DATE:5/5/25
 ## AIM:
 To write a C program to remove duplicates in an array.
 
